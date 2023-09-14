@@ -1,7 +1,7 @@
 {
   "name": "unsandboxmode",
   "displayName": "Sandbox Mode - Unsandbox",
-  "author": ["RTOmegax","gamma-2","Gamercodeleo1"],
+  "author": "RTOmegax, gamma-2, Gamercodeleo1",
   "description": "Makes you exit sandbox mode. Use with caution.",
   "version": 1.1,
   "minGameVersion": 136,
